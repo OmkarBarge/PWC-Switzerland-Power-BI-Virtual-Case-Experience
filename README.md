@@ -3,7 +3,6 @@
 <h1>Dashboards Links</h1>
 <ul>
 <li><p><a href = "https://www.novypro.com/project/call-centre-trend-2">Call Centre Trend</a></p></li>
-<li><p><a href = "https://www.novypro.com/project/hr-dashboard-36">HR Metrics</a></p></li>
 <li><p><a href = "https://www.novypro.com/project/customer-retention-analysis-power-bi-1">Customer Retention Analysis</a></p></li>
 <li><p><a href = "https://www.novypro.com/project/diversity--inclusion-16">Diversity & Inclusion</a></p></li>
 </ul>
@@ -26,11 +25,9 @@
 The dashboard has been designed with an intuitive and user-friendly interface, enabling easy navigation and exploration of the data. The visuals are visually appealing, presenting the information in a clear and concise manner. This dashboard will serve as a basis for discussion with management, providing them with a holistic view of Call Centre trends and enabling data-driven decision-making.
 
 By leveraging Power BI's capabilities, I have created a dashboard that showcases the relevant KPIs and metrics while maintaining a creative and insightful approach to data visualization.</p>
-
+<hr>
 <h3>Customer Retention Analysis</h3>
-<p>Dashboard Description:
-
-I have created a comprehensive dashboard using Power BI to address the customer retention challenges faced by PhoneNow, the telecom company. The dashboard focuses on providing insights into customer behavior and identifying at-risk customers to proactively take action and improve retention rates. Here is a description of the dashboard:
+<p>Created a comprehensive dashboard using Power BI to address the customer retention challenges faced by PhoneNow, the telecom company. The dashboard focuses on providing insights into customer behavior and identifying at-risk customers to proactively take action and improve retention rates. Here is a description of the dashboard:
 
 1. Key Performance Indicators (KPIs): I have defined relevant KPIs to track and measure customer retention. These include metrics such as Customer Churn Rate, Customer Lifetime Value, Customer Retention Rate, and Net Promoter Score (NPS). These KPIs will help the Retention Manager assess the effectiveness of the strategies implemented and monitor progress over time.
 
@@ -38,10 +35,23 @@ I have created a comprehensive dashboard using Power BI to address the customer 
 
 3. Services Analysis: By visualizing the services each customer has signed up for, such as phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies, the dashboard helps identify patterns and preferences among customers. This insight can guide targeted retention strategies based on the specific services that customers value the most.
 
-4. Customer Account Information: This section of the dashboard presents relevant customer account details, including their tenure as a customer, contract details, payment method, paperless billing preferences, monthly charges, total charges, and the number of tickets opened in administrative and technical categories. This information enables the Retention Manager to identify any potential pain points or issues that might contribute to customer dissatisfaction and churn.
-
-5. Demographic Analysis: The dashboard incorporates demographic information such as gender, age range, and whether customers have partners and dependents. This analysis helps identify specific customer segments that may be more prone to churn, allowing for targeted retention efforts tailored to their needs.
-
 The Power BI dashboard has been designed to be visually appealing and user-friendly, enabling the Retention Manager to easily navigate and interpret the data. The visuals are intuitive and self-explanatory, allowing for quick understanding and actionable insights.
 
 In conclusion, this dashboard equips the Retention Manager at PhoneNow with the necessary tools to understand customer retention challenges, proactively identify at-risk customers, and implement targeted strategies to improve customer loyalty. By leveraging Power BI's capabilities, the dashboard provides clear and comprehensive insights into customer behavior and empowers the management team to make data-driven decisions for enhanced customer retention.</p>
+<hr>
+<h3>Diversity & Inclusion</h3>
+<p>Dashboard Description:
+
+I have developed a powerful Power BI dashboard to assist the telecom client's Human Resources department in addressing the challenge of improving gender balance at the executive management level. The dashboard focuses on providing insights into diversity and inclusion metrics and identifying areas for improvement. Here is a description of the dashboard:
+
+1. Key Diversity and Inclusion Metrics: The dashboard includes key metrics such as the number of men and women in the organization, the number of employees who have left the company (leavers), the percentage of employees promoted in the fiscal year 2021 (% employees promoted), the percentage of women promoted (% of women promoted), the percentage of male and female hires (% of hires men and % of hires women), the turnover rate (% turnover), and the average performance ratings for men and women (Average performance rating: men and Average performance rating: women). These metrics provide a comprehensive view of the current state of gender diversity and inclusion within the organization.
+
+2. Visualization of Gender Balance: The dashboard incorporates visualizations that illustrate the representation of men and women across various levels of the organization. These visuals provide a clear picture of the gender distribution and help identify any imbalances in leadership positions.
+
+3. Trend Analysis: The dashboard includes trend analysis visuals that showcase changes in diversity and inclusion metrics over time. By tracking the progress of key metrics, such as the percentage of women promoted and the turnover rate, the Human Resources department can assess the effectiveness of their initiatives and strategies aimed at improving gender balance at the executive level.
+
+4. Performance Comparison: The dashboard enables a performance comparison between men and women based on average performance ratings. This analysis helps identify any potential biases in performance evaluations and informs targeted interventions to address gender disparities in performance assessments.
+
+5. Data Driven Insights: The dashboard leverages analytics capabilities to provide data-driven insights and recommendations. By visualizing the diversity and inclusion metrics in a clear and concise manner, the dashboard facilitates decision-making and enables the Human Resources department to identify areas that require focused attention and develop strategies to drive positive change.
+
+The Power BI dashboard has been designed with an intuitive and user-friendly interface, allowing HR professionals to easily explore and interpret the data. The visuals are visually appealing and support the objective of promoting diversity and inclusion. The dashboard serves as a valuable tool for the client to monitor progress, identify gaps, and take informed actions towards achieving gender balance and fostering an inclusive work environment.</p>
