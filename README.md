@@ -10,7 +10,7 @@
 
 
 
-<h3>Call Centre Trends</h3>
+<h3><u>Call Centre Trends</u></h3>
 <p>Created a comprehensive dashboard using Power BI to showcase the Call Centre trends and provide insights into key performance indicators (KPIs) and metrics. The dashboard highlights important aspects of customer and agent behavior, allowing management to make informed decisions. Here are the key features of the dashboard:
 
 1. Overall Customer Satisfaction: This metric provides an overview of the customer satisfaction level based on feedback received. It is displayed as a score or percentage, allowing management to track customer sentiment over time.
